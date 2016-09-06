@@ -10,7 +10,7 @@
 
 Esri developer libraries documented [here](https://developers.arcgis.com/).
 
-Get developer support on the Box Hack slack channel [here](https://boxhackday.slack.com/messages/general/)
+Get developer support on the Box Hack slack channel [here](https://boxhackday.slack.com/messages/general/).
 
 ## Sample Code
 Check the `samples` folder for code samples written using the ArcGIS SDK for Javascript
